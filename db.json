@@ -1,0 +1,22 @@
+{
+  "sliders": [
+      {
+          "id": 1,
+          "url": "https://shelby.am/wp-content/uploads/2016/07/travel-1.jpg",
+          "title": "EXPLORE SOUTH AMERICA UNDER $1000",
+          "text": "READ MORE"
+      },
+      {
+          "id": 2,
+          "url": "https://shelby.am/wp-content/uploads/2016/07/travel-25.jpg",
+          "title": "FANTASTIC SALES ON ACCOMONDATION",
+          "text": "LOCATION"
+      },
+      {
+          "id": 3,
+          "url": "https://shelby.am/wp-content/uploads/2016/07/travel-24.jpg",
+          "title": "2016 BEST SUMMER DESTINATION",
+          "text": "LOCATION"
+      }
+  ]
+}
